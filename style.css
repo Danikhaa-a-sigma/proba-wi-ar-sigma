@@ -4,6 +4,11 @@ body {
 
 img {
     border-radius: 10px;   
+
+}
+h1{
+    text-align: center;
+    background-color: rgb(219, 219, 219);
     
 }
 

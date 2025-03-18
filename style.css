@@ -4,11 +4,19 @@ body {
 
 img {
     border-radius: 10px;   
-
+    width: 100%;
 }
 h1{
     text-align: center;
     background-color: rgb(219, 219, 219);
     
 }
-
+.trippi {
+    max-width: 30%;
+    background-color: rgb(230, 230, 230);
+    border-radius: 10px;
+}
+a {
+    color: red;
+    text-decoration: none;
+}
